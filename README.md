@@ -26,6 +26,9 @@ The code is organized into two main parts:
 
 Explore the `Query-System-notebooks` Jupyter Notebooks file for in-depth explanations and examples of using the Query System.
 
+**Example usage:**
+![Example usage of the CMD version of the query system](https://github.com/Kshishtawy/Query-System-based-on-positional-index-Boolean-model-and-Vector-Space-model/blob/main/Example%20usage%20in%20CMD.png?raw=true)
+
 ## Getting Started
 
 To run the Query System on your collection of files, follow these steps:
